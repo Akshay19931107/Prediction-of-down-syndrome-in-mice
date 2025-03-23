@@ -1,4 +1,3 @@
-# Prediction-of-down-syndrome-in-mice
 
 # Prediction of Down Syndrome in Mice
 
